@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     int activePlayer = 0;
 
-    boolean gameActive = true; 
+    boolean gameActive = true;
 
     public void dropIn(View view){
 

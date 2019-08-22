@@ -1,4 +1,4 @@
-#Connect 3
+#Connect 3 Game
 
 ##Android Studio App using Oreo
 

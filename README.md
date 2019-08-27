@@ -8,5 +8,6 @@
 
 ![Game Start](Start.png)
 *First Chip in*
+
 ![Win Example](Win.png)
 *Yellow has won*
